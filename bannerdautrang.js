@@ -116,8 +116,8 @@ $(window).load(function() {
 			var divpopup = document.createElement("div");
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
-			$( "body" ).append(divpopup);e/top-5-cong-ty-to-chuc-teabreak-tai-sai-gon-1073.html' target='_blank'><img src='https://lh5.g
-			$("#myModal").html("<a href='http://traicayvuongtron.vn/suc-khooogleusercontent.com/proxy/SIi0W_m7MYf1E5EXCyAkm-HFr4HWF8Ok4cqhMk0ggIK4pqapmUEkLMkMQve5KYHjy60Fr7mhbD87HQN-v9b0Lr_FUJ95CsbC_tIot8KCvHGPyZcbgRXMZTh2c-_629ZdtvnF_7mISJbT77I9CD-W7XqAHJRXFg=s0-d' width='500px'/><br/>Top 5 tiệm bánh teabreak</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$( "body" ).append(divpopup);
+			$("#myModal").html("<a href='http://traicayvuongtron.vn/suc-khoe/top-5-cong-ty-to-chuc-teabreak-tai-sai-gon-1073.html' target='_blank'><img src='http://traicayvuongtron.vn/static/uploads/su_kien_teabreak/33825250_2042552945786747_1524451152261808128_o.jpg' width='500px'/><br/>Top 5 công ty TeaBreak</a>. Liên hệ tư vấn:0909407848 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
